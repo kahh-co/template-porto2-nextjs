@@ -1,4 +1,4 @@
-# Labib Karl-Schneider Portfolio — Digital Editorial Archive
+# Budi Santoso Portfolio — Digital Editorial Archive
 
 Next.js + TypeScript + Tailwind CSS portfolio sesuai `prd.md`.
 
@@ -24,6 +24,7 @@ npm run start
 
 ## Kustomisasi
 
-- Email: ganti `your@email.com` di `components/Contact.tsx` dan `app/contact/page.tsx`
+- Profil (nama, universitas, jurusan, lokasi): `components/Hero.tsx`, `components/About.tsx`, `app/about/page.tsx`, `components/Footer.tsx`, `components/Navbar.tsx`, `app/layout.tsx`
+- Email: ganti `budi.santoso@email.com` di `components/Contact.tsx` dan `app/contact/page.tsx`
 - Social: ganti link GitHub / LinkedIn / Instagram di file yang sama
 - Project: edit `data/projects.ts`, taruh gambar di `public/images/`

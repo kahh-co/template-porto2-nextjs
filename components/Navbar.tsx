@@ -30,7 +30,7 @@ export default function Navbar() {
     >
       <div className="mx-auto flex h-16 max-w-archive items-center justify-between px-5 md:px-8">
         <Link href="/" className="font-mono text-[13px] tracking-[0.14em]">
-          LABIB K-S.
+          BUDI S.
         </Link>
 
         <nav className="hidden items-center gap-8 font-mono text-[11px] tracking-[0.18em] text-ink md:flex">

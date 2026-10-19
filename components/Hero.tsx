@@ -29,7 +29,8 @@ export default function Hero() {
       </h1>
 
       <p className="mt-6 max-w-md text-[15px] leading-relaxed text-muted">
-        Web Developer &amp; Information Systems Student based in Indonesia.
+        Web Developer &amp; Information Systems Student at Universitas
+        Indonesia, based in Depok.
       </p>
 
       <div className="mt-8 flex flex-wrap items-center gap-6">
@@ -65,7 +66,7 @@ export default function Hero() {
             <>
               <motion.div variants={fadeUp} initial="hidden" animate="show" custom={0}>
                 <p className="font-mono text-[11px] tracking-[0.22em] text-muted">
-                  LABIB KARL-SCHNEIDER — DIGITAL ARCHIVE / 2026
+                  BUDI SANTOSO — DIGITAL ARCHIVE / 2026
                 </p>
               </motion.div>
               <motion.div variants={fadeUp} initial="hidden" animate="show" custom={1}>
@@ -77,8 +78,8 @@ export default function Hero() {
               </motion.div>
               <motion.div variants={fadeUp} initial="hidden" animate="show" custom={2}>
                 <p className="mt-6 max-w-md text-[15px] leading-relaxed text-muted">
-                  Web Developer &amp; Information Systems Student based in
-                  Indonesia.
+                  Web Developer &amp; Information Systems Student at
+                  Universitas Indonesia, based in Depok.
                 </p>
                 <div className="mt-8 flex flex-wrap items-center gap-6">
                   <Link
@@ -114,7 +115,7 @@ export default function Hero() {
             <div className="overflow-hidden bg-[#EDEDEA]">
               <Image
                 src="/images/profile.jpg"
-                alt="Portrait of Labib Karl-Schneider"
+                alt="Portrait of Budi Santoso"
                 width={800}
                 height={1000}
                 priority

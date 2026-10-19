@@ -22,9 +22,9 @@ const mono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Labib Karl-Schneider — Digital Archive / 2026",
+  title: "Budi Santoso — Digital Archive / 2026",
   description:
-    "Web Developer & Information Systems Student based in Indonesia. I build digital experiences with purpose and character.",
+    "Web Developer & Information Systems Student at Universitas Indonesia, based in Depok. I build digital experiences with purpose and character.",
 };
 
 export default function RootLayout({
